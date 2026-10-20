@@ -5,7 +5,6 @@ import time
 from datetime import datetime, timezone
 import paho.mqtt.client as mqtt
 
-
 # --- 1. NEW DISPLAY FUNCTION PLACED HERE ---
 def display_reading(data):
     """Format and display a sensor reading with alerts."""
