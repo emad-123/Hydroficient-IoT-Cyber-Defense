@@ -1,0 +1,83 @@
+============================================================
+  GRAND MARINA WATER MONITORING DASHBOARD
+  Connected at: 2026-10-21 00:54:09
+============================================================
+
+────────────────────────────────────────
+  Location:  kitchen
+  Device ID: GM-HYDROLOGIC-03
+  Time:      2026-10-20T21:56:09.878612+00:00
+  Count:     #1
+────────────────────────────────────────
+  Pressure (upstream):     80.2 PSI
+  Pressure (downstream):   75.5 PSI
+  Pressure differential:    4.7 PSI
+  Flow rate:               37.1 gal/min
+
+────────────────────────────────────────
+  Location:  pool-wing
+  Device ID: GM-HYDROLOGIC-02
+  Time:      2026-10-20T21:56:09.881058+00:00
+  Count:     #1
+────────────────────────────────────────
+  Pressure (upstream):     81.8 PSI
+  Pressure (downstream):   76.7 PSI
+  Pressure differential:    5.1 PSI
+  Flow rate:               40.6 gal/min
+
+────────────────────────────────────────
+  Location:  main-building
+  Device ID: GM-HYDROLOGIC-01
+  Time:      2026-10-20T21:56:09.882308+00:00
+  Count:     #1
+────────────────────────────────────────
+  Pressure (upstream):     81.6 PSI
+  Pressure (downstream):   75.0 PSI
+  Pressure differential:    6.6 PSI
+  Flow rate:               41.3 gal/min
+
+────────────────────────────────────────
+  Location:  main-building
+  Device ID: GM-HYDROLOGIC-01
+  Time:      2026-10-20T21:56:11.883434+00:00
+  Count:     #2
+────────────────────────────────────────
+  Pressure (upstream):     82.5 PSI
+  Pressure (downstream):   77.4 PSI
+  Pressure differential:    5.1 PSI
+  Flow rate:               40.8 gal/min
+
+────────────────────────────────────────
+  Location:  pool-wing
+  Device ID: GM-HYDROLOGIC-02
+  Time:      2026-10-20T21:56:11.883132+00:00
+  Count:     #2
+────────────────────────────────────────
+  Pressure (upstream):     81.1 PSI
+  Pressure (downstream):   75.5 PSI
+  Pressure differential:    5.6 PSI
+  Flow rate:               42.3 gal/min
+
+────────────────────────────────────────
+  Location:  kitchen
+  Device ID: GM-HYDROLOGIC-03
+  Time:      2026-10-20T21:56:11.883660+00:00
+  Count:     #2
+────────────────────────────────────────
+  Pressure (upstream):     81.7 PSI
+  Pressure (downstream):   75.5 PSI
+  Pressure differential:    6.2 PSI
+  Flow rate:               41.0 gal/min
+
+────────────────────────────────────────
+  Location:  kitchen
+  Device ID: GM-HYDROLOGIC-03
+  Time:      2026-10-20T21:56:13.886609+00:00
+  Count:     #3
+────────────────────────────────────────
+  Pressure (upstream):     80.7 PSI
+  Pressure (downstream):   78.0 PSI
+  Pressure differential:    2.7 PSI
+  Flow rate:               40.3 gal/min
+
+────────────────────────────────────────
