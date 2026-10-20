@@ -1,7 +1,7 @@
 # Insecure MQTT Telemetry Pipeline & Synthetic Sensor Generator
 
 ## Overview
-This module demonstrates the baseline IoT telemetry infrastructure designed for the Grand Marina Hotel's water monitoring system[cite: 2]. It provides a synthetic sensor log generator paired with a hierarchical MQTT pub/sub pipeline, establishing an operational baseline to evaluate security risks prior to implementing controls.
+This module demonstrates the baseline IoT telemetry infrastructure designed for the Grand Marina Hotel's water monitoring system. It provides a synthetic sensor log generator paired with a hierarchical MQTT pub/sub pipeline, establishing an operational baseline to evaluate security risks prior to implementing controls.
 
 ## Architecture & Topic Design
 Telemetry data is organized by location and device function:
