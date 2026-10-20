@@ -62,7 +62,6 @@ readings.append(sensor.get_leak_reading())
 readings.append(sensor.get_blockage_reading())
 readings.append(sensor.get_stuck_reading())
 
-# Shuffle so anomalies aren't at the end
 random.shuffle(readings)
 
 # Save to JSON file
