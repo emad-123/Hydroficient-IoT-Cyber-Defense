@@ -7,7 +7,6 @@ Requires a valid client certificate signed by the trusted CA.
 Usage:
     python subscriber_mtls.py
 """
-
 import paho.mqtt.client as mqtt
 import ssl
 import json
