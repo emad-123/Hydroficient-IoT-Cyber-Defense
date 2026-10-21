@@ -1,0 +1,28 @@
+==================================================
+  GRAND MARINA HOTEL - Secure Subscriber
+  TLS-Encrypted MQTT Connection
+==================================================
+  TLS-Encrypted MQTT Connection
+==================================================
+==================================================
+
+2026-10-21 02:50:39,852 - INFO - Configuring TLS with CA: certs/ca.pem
+2026-10-21 02:50:39,852 - INFO - Configuring TLS with CA: certs/ca.pem
+2026-10-21 02:50:39,912 - INFO - Connecting to localhost:8883 with TLS...
+
+Waiting for messages (Ctrl+C to stop)...
+
+2026-10-21 02:50:40,021 - INFO - Connected successfully over TLS!
+2026-10-21 02:50:40,021 - INFO - Subscribed to: grandmarina/#
+2026-10-21 02:51:10,392 - INFO - [RECEIVED] Main Building: pressure=82.3 PSI, flow=48.8 GPM, valve=55%
+2026-10-21 02:51:13,378 - INFO - [RECEIVED] Pool & Spa: pressure=76.5 PSI, flow=63.0 GPM, valve=75%
+2026-10-21 02:51:16,379 - INFO - [RECEIVED] Kitchen: pressure=84.8 PSI, flow=41.2 GPM, valve=59%
+2026-10-21 02:51:19,380 - INFO - [RECEIVED] Main Building: pressure=79.9 PSI, flow=45.4 GPM, valve=51%
+2026-10-21 02:51:22,382 - INFO - [RECEIVED] Pool & Spa: pressure=77.4 PSI, flow=61.5 GPM, valve=48%
+2026-10-21 02:51:25,383 - INFO - [RECEIVED] Kitchen: pressure=82.9 PSI, flow=37.1 GPM, valve=50%
+2026-10-21 02:51:28,384 - INFO - [RECEIVED] Main Building: pressure=84.1 PSI, flow=48.6 GPM, valve=61%
+2026-10-21 02:56:53,122 - INFO - [RECEIVED] Main Building: pressure=81.1 PSI, flow=47.8 GPM, valve=43%
+2026-10-21 02:56:56,119 - INFO - [RECEIVED] Pool & Spa: pressure=79.1 PSI, flow=65.8 GPM, valve=58%
+2026-10-21 02:56:59,120 - INFO - [RECEIVED] Kitchen: pressure=84.8 PSI, flow=41.1 GPM, valve=57%
+2026-10-21 02:57:02,121 - INFO - [RECEIVED] Main Building: pressure=80.6 PSI, flow=48.2 GPM, valve=72%
+2026-10-21 02:57:05,123 - INFO - [RECEIVED] Pool & Spa: pressure=80.4 PSI, flow=63.3 GPM, valve=56%
